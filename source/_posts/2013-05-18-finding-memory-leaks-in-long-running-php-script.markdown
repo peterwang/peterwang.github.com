@@ -4,7 +4,7 @@ title: "Finding memory leaks in long running php script"
 date: 2013-05-18 18:56
 comments: true
 categories:
-published: false
+published: true
 ---
 
 Recently I solved a problem of memory leaks in a long running php script. There were things I'd like to share, which might be helpful to others.
