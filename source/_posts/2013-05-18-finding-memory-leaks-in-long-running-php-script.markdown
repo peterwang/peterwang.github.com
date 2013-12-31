@@ -359,6 +359,6 @@ Array
 
 ```
 
-We check all the call_path key, we get all the places that leaks memory.
+We check all the call_path keys, we get all the places that leaks memory.
 
 It is pretty simple, isn't it?
